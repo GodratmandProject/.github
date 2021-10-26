@@ -1,5 +1,3 @@
-<div align="center">
-
 <br>
 
 [![Logo](./Baner.jpg)](#)
