@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="../logo/GGroup-Logo-Light.svg" width="500px">
+<img src="./Baner.jpg" width="700px">
 
 The Iranian Godratmand Developer Team, Fast & lightweight apps & freamework developing..
 
