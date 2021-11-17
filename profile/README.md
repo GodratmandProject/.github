@@ -2,7 +2,7 @@
 
 <br>
 
-[![Banner](/files/Banner.jpg)](#)
+[![Banner](/files/GG-banner.jpg)](#)
 
 The Iranian Godratmand Developer Team, Fast & lightweight apps & freamework developing..
 
